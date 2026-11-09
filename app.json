@@ -1,14 +1,15 @@
 {
-  "id": "net.picodeck.editor",
-  "name": "Text Editor",
-  "description": "Nano-like text editor for PicoDeck",
-  "version": "1.0.0",
-  "author": "PicoDeck",
-  "requirements": [
-    "filesystem",
-    "root-filesystem",
-    "clipboard",
-    "sysconfig"
-  ],
-  "category": "tools"
+    "id": "net.picodeck.editor",
+    "name": "Text Editor",
+    "description": "Nano-like text editor for PicoDeck",
+    "version": "1.0.1",
+    "author": "PicoDeck",
+    "requirements": [
+        "filesystem",
+        "root-filesystem",
+        "clipboard",
+        "sysconfig"
+    ],
+    "category": "tools",
+    "min_firmware": "0.7.0"
 }
